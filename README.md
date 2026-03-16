@@ -39,3 +39,7 @@ The Open Governance Tracker will consist of four core components:
 - Searchable policy tracker
 - Data visualization tools
 - Public transparency portal
+
+- ## Example Dashboard (Prototype Concept)
+
+![Open Governance Tracker Dashboard](dashboard-mockup.png)
